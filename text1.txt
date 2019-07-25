@@ -1,8 +1,6 @@
 
 change in b2
-
----------------
-
+branch edit in b1
 
 third edit
 Second edit
